@@ -1,0 +1,26 @@
+{
+  "name": "phpnubank",
+  "version": "1.0.0",
+  "description": "Pacote para integração de conciliação bancária com Nubank.",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brunodellmen01/phpnubank.git"
+  },
+  "keywords": [
+    "nubank"
+  ],
+  "author": "brunodellmen01",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brunodellmen01/phpnubank/issues"
+  },
+  "homepage": "https://github.com/brunodellmen01/phpnubank#readme"
+}
