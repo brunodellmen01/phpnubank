@@ -1,20 +1,15 @@
 {
-    "name": "nexy/phpnubank",
+    "name": "brunodellmen01/phpnubank",
     "description": "Acesse seus extratos do Nubank pelo PHP (baseado em https://github.com/andreroggeri/pynubank)",
     "type": "library",
     "license": "GPL-2.0-only",
-    "authors": [
-        {
-            "name": "Ricardo Coelho",
-            "email": "ricardo@nexy.com.br"
+    "authors": [{
+            "name": "Bruno Santana",
+            "email": "bruno.santana@f5consultoria.info"
         },
         {
-            "name": "André Roggeri Campos",
-            "email": "a.roggeri.c@gmail.com"
-        },
-        {
-            "name": "Evaldo Barbosa",
-            "email": "evaldobarbosa@gmail.com"
+            "name": "Luiz Henrique Cavalcante de Oliveira",
+            "email": "luiz.henrique@f5consultoria.info"
         }
     ],
     "require": {
